@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://e0.pxfuel.com/wallpapers/382/344/desktop-wallpaper-web-development-front-end.jpg))
 <h1 align="center" >Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img alt="coding-image" align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
