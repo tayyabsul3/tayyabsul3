@@ -37,9 +37,9 @@
 
 <p display="flex" align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabsul3&show_icons=true&locale=en&layout=compact" alt="tayyabsul3" width="400"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabsul3&show_icons=true&locale=en" alt="tayyabsul3"  width="600"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabsul3&show_icons=true&locale=en" alt="tayyabsul3"  width="500"/>
 
-<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3"  width="600" /></p>
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3"  width="500" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
