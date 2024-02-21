@@ -35,11 +35,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabsul3&show_icons=true&locale=en&layout=compact" alt="tayyabsul3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabsul3&show_icons=true&locale=en&layout=compact" alt="tayyabsul3" width="300"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabsul3&show_icons=true&locale=en" alt="tayyabsul3" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayyabsul3&show_icons=true&locale=en" alt="tayyabsul3"  width="300"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3" /></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3"  width="300" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
