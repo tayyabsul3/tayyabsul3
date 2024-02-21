@@ -1,11 +1,9 @@
-<p><img alt="coding-image" align="center" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"></p>
-
 <h1 align="center" >Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Front-End developer from Pakistan</h3>
 
-<p align="left">
-  <img src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif">
-</p>
+
+  <img align="right" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsul3&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsul3" /> </p>
 
 - 🔭 I’m currently working on **React projects.**
