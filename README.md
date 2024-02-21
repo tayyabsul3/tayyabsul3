@@ -35,5 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabsul3&" alt="tayyabsul3" /></p>
