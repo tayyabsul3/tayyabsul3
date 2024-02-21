@@ -5,7 +5,7 @@
   <img align="right" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="350">
 
  # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>Front-End Technoligies especially React<br><br>💬 **Ask me about:**  <br>JavaScript, React, and any general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Techniques to develop Top-notch UI Designs.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>Front-End Technoligies especially React<br><br>💬 **Ask me about:**  <br>JavaScript, React, and any general software development questions.<br><br>
 
 - 👨‍💻 **All my projects are at** : <br> [https://tayyabsul3.github.io/Landing-Page/](https://tayyabsul3.github.io/Landing-Page/)
 
