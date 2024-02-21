@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Front-End Development from coursera.**
 
 - 👯 I’m looking to collaborate on **opportunities in Front-End Development.**
-- 
+
 - 💬 Ask me about **HTML,CSS ,JS, React.js, C/C++, SQL, Database**
 
 - 👨‍💻 All my projects are at [https://tayyabsul3.github.io/Landing-Page/](https://tayyabsul3.github.io/Landing-Page/)
