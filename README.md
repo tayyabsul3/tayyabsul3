@@ -1,4 +1,4 @@
-<img alt="coding-image" align="right" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<p><img alt="coding-image" align="center" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"></p>
 
 <h1 align="center" >Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate Front-End developer from Pakistan</h3>
