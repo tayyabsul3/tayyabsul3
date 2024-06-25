@@ -1,11 +1,19 @@
 <h1 align="center" >Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">A passionate Front-End developer from Pakistan</h3>
+<p align="center">Frontend Developer with a strong foundation in C++ and
+various web technologies. Skilled in using Git, GitHub, React
+Router DOM, Node.js, Express, MongoDB, Redux, JavaScript,
+CSS, and responsive design. Proficient in React for building
+dynamic web applications. Possess internet literacy and
+proficient typing speed of 35wpm. Completed courses in
+Frontend Development and obtained IELTS certification. A
+dedicated professional with a passion for programming and a
+commitment to staying updated with the latest industry
+trends. Adept at working both independently and
+collaboratively to deliver high-quality projects within deadline</p>
 
 
   <img align="right" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="350">
 
- # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Techniques to develop Top-notch UI Designs.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>Front-End Technoligies especially React<br><br>💬 **Ask me about:**  <br>JavaScript, React, and any general software development questions.<br><br>
 
 - 👨‍💻 **All my projects are at** : <br> [https://tayyabsul3.github.io/Landing-Page/](https://tayyabsul3.github.io/Landing-Page/)
 
