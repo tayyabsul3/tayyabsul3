@@ -1,23 +1,18 @@
 <h1 align="center" >Hi 👋, I'm Muhammad Tayyab</h1>
-<p align="center">Frontend Developer with a strong foundation in C++ and
+<p align="center">Web Developer with a strong foundation in C++ and
 various web technologies. Skilled in using Git, GitHub, React
 Router DOM, Node.js, Express, MongoDB, Redux, JavaScript,
 CSS, and responsive design. Proficient in React for building
-dynamic web applications. Possess internet literacy and
-proficient typing speed of 35wpm. Completed courses in
-Frontend Development and obtained IELTS certification. A
-dedicated professional with a passion for programming and a
-commitment to staying updated with the latest industry
-trends. Adept at working both independently and
-collaboratively to deliver high-quality projects within deadline</p>
+dynamic web applications.I have Completed courses in
+Frontend Development and Backend Development. </p>
 
 
   <img align="right" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif" width="350">
 
 
-- 👨‍💻 **All my projects are at** : <br> [https://tayyabsul3.github.io/Landing-Page/](https://tayyabsul3.github.io/Landing-Page/)
+- 👨‍💻 **Portfolio Webiste** : <br> [https://tayyabsul3.github.io/Landing-Page/](https://tayyabsul3.github.io/Landing-Page/)
 
-- 📫 **How to reach me**  : <br>tayyabsultan621@gmail.com 
+- 📫 **Contact me**  : <br>tayyabsultan621@gmail.com 
 <br>
 <h1>Tech Stack</h1>
 <p>
@@ -50,7 +45,7 @@ collaboratively to deliver high-quality projects within deadline</p>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad tayyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad tayyab" height="30" width="40" /></a>
 </p>
