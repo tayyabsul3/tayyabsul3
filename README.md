@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at
 <a href="https://tayyabsul3.github.io/Landing-Page/" target="_blank">Portfolio</a>
 
-- 📄 Know about my experiences <a href="[https://plrhlsmmhmuutumibwez.supabase.co/storage/v1/object/public/pictures//tayyab_resume.docx](https://plrhlsmmhmuutumibwez.supabase.co/storage/v1/object/public/pictures//tayyab_resume.docx)" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://plrhlsmmhmuutumibwez.supabase.co/storage/v1/object/public/pictures//tayyab_resume.docx" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/muhammad-tayyab-bb27a4250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-bb27a4250" height="30" width="40" /></a></h3>
 <p align="left">
