@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I have passion for teaching**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/muhammad-tayyab-bb27a4250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-bb27a4250" height="30" width="40" /></a></h3>
 <p align="left">
 </p>
 
