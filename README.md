@@ -19,8 +19,7 @@
 <p align="left">
 </p>
 
-<div>
-  <h2>My Tech Stack</h2>
+<div align="center">
   <table>
     <thead>
       <tr>
@@ -31,15 +30,15 @@
     <tbody>
       <tr>
         <td>Front-end</td>
-        <td>React.js, Next.js, Tailwind CSS, HTML/CSS, JavaScript, TypeScript</td>
+        <td>React.js, Next.js, Tailwind CSS, Redux , Shadcn/UI</td>
       </tr>
       <tr>
         <td>Back-end</td>
-        <td>Node.js, Express.js, Firebase</td>
+        <td>Node.js, Express.js, Firebase , Supabase </td>
       </tr>
       <tr>
         <td>Databases</td>
-        <td>MongoDB, SQL</td>
+        <td>MongoDB, Postgre SQL</td>
       </tr>
     </tbody>
   </table>
