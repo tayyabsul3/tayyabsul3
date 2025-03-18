@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I have passion for teaching**
 
 - 👨‍💻 All of my projects are available at
-<a href="[https://tayyabfolio-liart.vercel.app/" target="_blank">Portfolio</a>
+<a href="https://tayyabfolio-liart.vercel.app/" target="_blank">Portfolio</a>
 
 - 📄 Know about my experiences <a href="https://plrhlsmmhmuutumibwez.supabase.co/storage/v1/object/public/pictures//tayyab_resume.docx" target="_blank">Resume</a>
 
